@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Roky Mahmud",
+        "Rating": 4.8,
+        "img": "https://yourimageshare.com/ib/QBnR2whM8X.png",
+        "review": "Starting at just $35 for the 2GB model, the Raspberry Pi 4 is the world's best single-board computer, a must-have for tech enthusiasts of all ages."
+    },
+    {
+        "id": "2",
+        "name": "Anis Mahmud",
+        "Rating": 4.7,
+        "img": "https://yourimageshare.com/ib/qig0U1Dt6k.jfif",
+        "review": "The Raspberry Pi 4 is a big upgrade over past models, with more processing muscle, better video support and no compromises in price or capabilities."
+    },
+    {
+        "id": "3",
+        "name": "Liton Das",
+        "Rating": 4,
+        "img": "https://yourimageshare.com/ib/FP90rn9KeP.jfif",
+        "review": "It is a good product.But i am not used to it."
+    },
+    {
+        "id": "4",
+        "name": "Anika Islam",
+        "Rating": 4.2,
+        "img": "https://yourimageshare.com/ib/NTMiXGaJhg.jfif",
+        "review": "Significantly more powerful than past models USB 3.0 ports supports dual 4K video output Convenient USB Type-C power"
+    },
+    {
+        "id": "7",
+        "name": "Riaz Mahmud",
+        "Rating": 4.5,
+        "img": "https://yourimageshare.com/ib/q9U2TkUu8N.jfif",
+        "review": "Not compatible with older Raspberry Pi cases Potential compatibility issues with some USB Type-C power cables Software compatibility is hit or miss"
+    },
+    {
+        "id": "6",
+        "name": "Andy josh",
+        "Rating": 5,
+        "img": "https://yourimageshare.com/ib/yKq5IXEXVb.jfif",
+        "review": "I am a big fan of Raspberry Pi 4"
+    }
+]
