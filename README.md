@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Live Link:
+(https://624c7fcba951046a5b6c9c14--legendary-sprinkles-128adb.netlify.app/)
+### Project Discription
+* Here we discuss about Raspberry Pi 4.
+* You can see review from our website.
+* You can see earn and reveniue of raspberry Pi.
 ## Available Scripts
 
 In the project directory, you can run:
